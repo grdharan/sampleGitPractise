@@ -45,5 +45,9 @@ public class RegisterTest extends BaseTest{
 
 	}
 	
+	private void summa() {
+		System.out.println("dskjfbdsjkbcfkj");
+	}
+	
 
 }
